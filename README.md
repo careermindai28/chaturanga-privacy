@@ -146,11 +146,11 @@ Your game history is anonymized within 90 days
 Your email is removed from our authentication records immediately
 Backup copies may persist for up to 180 days in encrypted backups
 
-You may request deletion of your data at any time by contacting us at gautam.akshay2812@gmail.com.
+You may request deletion of your data at any time by contacting us at chaturangaplay28@gmail.com.
 
 9. Children's Privacy
 Chaturanga Play is not directed to children under the age of 13 (or under 16 in the European Union).
-We do not knowingly collect personal information from children under 13. If you are a parent or guardian and believe your child has provided us with personal information, please contact us immediately at gautam.akshay2812@gmail.com.
+We do not knowingly collect personal information from children under 13. If you are a parent or guardian and believe your child has provided us with personal information, please contact us immediately at chaturangaplay28@gmail.com.
 If we discover that a child under 13 has provided personal information, we will delete it from our servers promptly.
 
 10. Your Rights and Choices
@@ -172,8 +172,8 @@ Through the App's Settings → Notifications
 Through your device's notification settings
 
 10.7 Account Deletion
-You can delete your account at any time through Settings → Account → Delete Account, or by contacting us at gautam.akshay2812@gmail.com.
-To exercise any of these rights, please contact us at: gautam.akshay2812@gmail.com
+You can delete your account at any time through Settings → Account → Delete Account, or by contacting us at chaturangaplay28@gmail.com.
+To exercise any of these rights, please contact us at: chaturangaplay28@gmail.com
 We will respond to your request within 30 days.
 
 11. Data Security
@@ -200,7 +200,7 @@ We will notify you in the event of a data breach that affects your personal data
 You may file a complaint with the Data Protection Board of India if you believe your rights have been violated
 
 Data Fiduciary: Akshay Gautam
-Contact for data grievances: gautam.akshay2812@gmail.com
+Contact for data grievances: chaturangaplay28@gmail.com
 
 13. European Users — GDPR
 If you are located in the European Economic Area (EEA), you have additional rights under the General Data Protection Regulation (GDPR):
@@ -210,7 +210,7 @@ Contract — processing necessary to provide the App's services
 Consent — for marketing communications and optional features
 Legitimate interests — for analytics, security, and fraud prevention
 
-Data Controller: Akshay Gautam, gautam.akshay2812@gmail.com
+Data Controller: Akshay Gautam, chaturangaplay28@gmail.com
 You have the right to lodge a complaint with your local data protection authority.
 
 14. Cookies and Tracking Technologies
@@ -243,7 +243,7 @@ Your continued use of the App after we post changes constitutes your acceptance 
 17. Contact Us
 If you have any questions, concerns, or requests regarding this Privacy Policy or our data practices, please contact us:
 Developer: Akshay Gautam
-Email: gautam.akshay2812@gmail.com
+Email: chaturangaplay28@gmail.com
 App: Chaturanga Play (com.chaturanga.play)
 We will respond to all legitimate requests within 30 days.
 
